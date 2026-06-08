@@ -230,27 +230,11 @@ customer-churn-prediction/
 
 **Ranjith A R**
 
-Aspiring Data Analyst
+
+📧 [24ranjith2003@gmail.com](24ranjith2003@gmail.com)  
+🌐 [Portfolio](https://ranjith-nayak.github.io)  
+💼 [LinkedIn](https://www.linkedin.com/in/ranjith-nayak)  
+💻 [GitHub](https://github.com/ranjith-nayak)
 
 Skills:
 
-* SQL
-* Python
-* Power BI
-* Excel
-* Statistics
-* Machine Learning
-
----
-
-## ⭐ Project Highlights
-
-✔ 7,043 Customer Records Analyzed
-
-✔ End-to-End Analytics Workflow
-
-✔ Machine Learning-Based Churn Prediction
-
-✔ Interactive Multi-Page Power BI Dashboard
-
-✔ Business-Oriented Insights & Recommendations
