@@ -210,19 +210,23 @@ customer-churn-prediction/
 
 ### Executive Overview
 
-(Add Screenshot Here)
+<img width="1419" height="800" alt="Churn_Drivers" src="https://github.com/user-attachments/assets/8f52bc96-b4c2-4cf3-8f8d-d12ae6653141" />
+
 
 ### Customer Analysis
 
-(Add Screenshot Here)
+<img width="1414" height="795" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/cebfb6a2-34e6-4795-a061-542c942894b1" />
+
 
 ### Churn Drivers
 
-(Add Screenshot Here)
+<img width="1421" height="798" alt="Executive_Overview" src="https://github.com/user-attachments/assets/7d04b418-a5dd-45bf-9129-39edb32c7e52" />
+
 
 ### ML Insights
 
-(Add Screenshot Here)
+<img width="1418" height="798" alt="ML_Insights" src="https://github.com/user-attachments/assets/faf472a5-9541-4733-b923-ee5c0c67dcb9" />
+
 
 ---
 
@@ -235,6 +239,3 @@ customer-churn-prediction/
 🌐 [Portfolio](https://ranjith-nayak.github.io)  
 💼 [LinkedIn](https://www.linkedin.com/in/ranjith-nayak)  
 💻 [GitHub](https://github.com/ranjith-nayak)
-
-Skills:
-
